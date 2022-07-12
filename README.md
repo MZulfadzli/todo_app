@@ -82,3 +82,7 @@ curl -L -X GET "http://localhost:5000/logout"
 This application and all APIs call are execute from Windows.
 
 During excution of cURL command please keep in mind to maintain cookie session value to avoid getting Unauthorized message. 
+
+Get Docker image from Docker Hub:
+
+```docker pull mzulfadzli/todo_app```
